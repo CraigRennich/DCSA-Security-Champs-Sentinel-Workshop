@@ -1,4 +1,4 @@
-# Welcome to Microsoft Sentinel Training Lab
+# Welcome to the DCSA Security Champs Microsoft Sentinel Workshop
 
 <p align="center">
 <img src="./Images/sentinel-labs-logo.png?raw=true">
